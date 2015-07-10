@@ -31,7 +31,7 @@ var Footer = React.createClass({
           <a href="https://github.com/divad12/vim-awesome"
               className="github-link">
             Contribute
-            <i className="icon-github"></i>
+            {' '}<i className="icon-github"></i>
             on GitHub
           </a>
         </div>
